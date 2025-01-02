@@ -1,0 +1,9 @@
+body {
+    background-image: url('images/christmas-background.png');
+    font-family: monospace;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    height: 100vh;
+    font-size: 17pt;
+}

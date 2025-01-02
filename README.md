@@ -1,2 +1,1 @@
-# binary-translator
-A common translating for binary, text and numbers.
+If you wanna try it, just click in the link -> 
